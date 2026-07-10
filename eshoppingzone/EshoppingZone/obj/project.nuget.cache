@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MrJqjDzNgXE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gpadmasr\\Documents\\EshoppingZone\\eshoppingzone\\EshoppingZone\\EshoppingZone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gpadmasr\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\gpadmasr\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\gpadmasr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\10.0.1\\microsoft.netcore.app.host.win-x64.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
