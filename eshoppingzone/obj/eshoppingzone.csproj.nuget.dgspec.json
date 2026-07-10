@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gpadmasr\\Desktop\\ShoppingCartSystem\\EshoppingZone\\eshoppingzone.csproj": {}
+    "C:\\Users\\gpadmasr\\Desktop\\ShoppingCartSystem\\eshoppingzone\\eshoppingzone.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gpadmasr\\Desktop\\ShoppingCartSystem\\EshoppingZone\\eshoppingzone.csproj": {
+    "C:\\Users\\gpadmasr\\Desktop\\ShoppingCartSystem\\eshoppingzone\\eshoppingzone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gpadmasr\\Desktop\\ShoppingCartSystem\\EshoppingZone\\eshoppingzone.csproj",
+        "projectUniqueName": "C:\\Users\\gpadmasr\\Desktop\\ShoppingCartSystem\\eshoppingzone\\eshoppingzone.csproj",
         "projectName": "eshoppingzone",
-        "projectPath": "C:\\Users\\gpadmasr\\Desktop\\ShoppingCartSystem\\EshoppingZone\\eshoppingzone.csproj",
+        "projectPath": "C:\\Users\\gpadmasr\\Desktop\\ShoppingCartSystem\\eshoppingzone\\eshoppingzone.csproj",
         "packagesPath": "C:\\Users\\gpadmasr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gpadmasr\\Desktop\\ShoppingCartSystem\\EshoppingZone\\obj\\",
+        "outputPath": "C:\\Users\\gpadmasr\\Desktop\\ShoppingCartSystem\\eshoppingzone\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gpadmasr\\AppData\\Roaming\\NuGet\\NuGet.Config"
